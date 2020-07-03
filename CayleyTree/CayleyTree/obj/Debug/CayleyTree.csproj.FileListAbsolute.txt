@@ -1,0 +1,10 @@
+D:\college\大二下\软件构造基础\exercise\exercise05\CayleyTree\CayleyTree\bin\Debug\CayleyTree.exe.config
+D:\college\大二下\软件构造基础\exercise\exercise05\CayleyTree\CayleyTree\bin\Debug\CayleyTree.exe
+D:\college\大二下\软件构造基础\exercise\exercise05\CayleyTree\CayleyTree\bin\Debug\CayleyTree.pdb
+D:\college\大二下\软件构造基础\exercise\exercise05\CayleyTree\CayleyTree\obj\Debug\CayleyTree.csprojAssemblyReference.cache
+D:\college\大二下\软件构造基础\exercise\exercise05\CayleyTree\CayleyTree\obj\Debug\CayleyTree.Form1.resources
+D:\college\大二下\软件构造基础\exercise\exercise05\CayleyTree\CayleyTree\obj\Debug\CayleyTree.Properties.Resources.resources
+D:\college\大二下\软件构造基础\exercise\exercise05\CayleyTree\CayleyTree\obj\Debug\CayleyTree.csproj.GenerateResource.cache
+D:\college\大二下\软件构造基础\exercise\exercise05\CayleyTree\CayleyTree\obj\Debug\CayleyTree.exe
+D:\college\大二下\软件构造基础\exercise\exercise05\CayleyTree\CayleyTree\obj\Debug\CayleyTree.pdb
+D:\college\大二下\软件构造基础\exercise\exercise05\CayleyTree\CayleyTree\obj\Debug\CayleyTree.Form2.resources
